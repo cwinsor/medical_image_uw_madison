@@ -1,0 +1,3 @@
+[submodule "project/Kaggle-UWMGIT"]
+	path = project/Kaggle-UWMGIT
+	url = https://github.com/CarnoZhao/Kaggle-UWMGIT
